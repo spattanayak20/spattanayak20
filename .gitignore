@@ -1,0 +1,11 @@
+__pycache__
+.idea/
+venv/
+venv_3.8/
+*.pkl
+zips/
+result_zips/
+*.pth
+Preprocessed_Images/
+data/
+*.csv
